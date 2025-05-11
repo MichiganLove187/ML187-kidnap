@@ -2,6 +2,8 @@
 
 A Simple script that allows players to restrain, carry, and place other players in vehicle trunks.
 
+## HUGH SHOUT OUT TO Shawns Developments for help with bug fixes IF YOU WANNA SEE MORE OF HIS WORK GO HIT HIS DISCORD https://discord.gg/4EA4NUx8
+
 ## Features
 
 - **Player Restraining**: Use zipties to restrain other players
